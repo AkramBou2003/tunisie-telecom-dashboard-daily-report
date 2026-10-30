@@ -1,0 +1,10 @@
+# Keep confidential and local files out of Git
+.env
+.env.*
+*.csv
+*.xlsx
+*.xls
+*.sql
+*.dump
+*.bak
+config/secrets*
