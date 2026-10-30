@@ -1,10 +1,10 @@
-# Tunisia Telecom – Business Data Visualization Platform
+# Tunisie Telecom – Business Data Visualization Platform
 
-**Summer internship project | Documentation-only portfolio repository**
+**Summer Internship | Summer 2025**
 
 ## Overview
 
-During a summer internship at Tunisia Telecom, I contributed to a web application that enables company employees to consult business indicators through dashboards and charts.
+During my summer internship at Tunisie Telecom in 2025, I contributed to the development of a web application that enables company employees to consult business indicators through dashboards and charts.
 
 The application provides separate administrator and employee interfaces. The administrator manages employee accounts and imports daily CSV reports. Before storage in the SQL database, the imported data goes through recurring preparation operations: removing unnecessary columns, splitting selected columns, combining selected columns, and applying calculations.
 

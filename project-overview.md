@@ -1,7 +1,7 @@
 # Project overview
 
 ## Context
-A web application was developed during a summer internship at Tunisia Telecom to make selected company business indicators accessible to employees through dashboards and charts.
+A web application was developed during a summer internship at Tunisie Telecom in summer 2025 to make selected company business indicators accessible to employees through dashboards and charts.
 
 ## Purpose
 The application provides a central interface for importing daily business reports, preparing and storing report data, presenting selected indicators through visualizations, and allowing employees to consult dashboards.
